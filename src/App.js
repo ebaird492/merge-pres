@@ -15,7 +15,7 @@ function App() {
           Merge sort divides the array into smaller components
         </p>
         <p>
-          Isn't it easier to sort a two element array rather than one of a much larger size?
+          Isn't it far easier to sort a two element array rather than one of a much larger size?
         </p>
         <img src={example} className="Example" alt="example" />
         <img src={code} className="Code" alt="code example" />
