@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/merge-pres/static/css/main.6fd7c62b.chunk.css",
+    "main.js": "/merge-pres/static/js/main.feb99c43.chunk.js",
+    "main.js.map": "/merge-pres/static/js/main.feb99c43.chunk.js.map",
+    "runtime-main.js": "/merge-pres/static/js/runtime-main.708116f7.js",
+    "runtime-main.js.map": "/merge-pres/static/js/runtime-main.708116f7.js.map",
+    "static/js/2.0577e998.chunk.js": "/merge-pres/static/js/2.0577e998.chunk.js",
+    "static/js/2.0577e998.chunk.js.map": "/merge-pres/static/js/2.0577e998.chunk.js.map",
+    "static/js/3.9755a870.chunk.js": "/merge-pres/static/js/3.9755a870.chunk.js",
+    "static/js/3.9755a870.chunk.js.map": "/merge-pres/static/js/3.9755a870.chunk.js.map",
+    "index.html": "/merge-pres/index.html",
+    "static/css/main.6fd7c62b.chunk.css.map": "/merge-pres/static/css/main.6fd7c62b.chunk.css.map",
+    "static/js/2.0577e998.chunk.js.LICENSE.txt": "/merge-pres/static/js/2.0577e998.chunk.js.LICENSE.txt",
+    "static/media/merge-ex.93fdf395.png": "/merge-pres/static/media/merge-ex.93fdf395.png",
+    "static/media/merge-sort.584da737.png": "/merge-pres/static/media/merge-sort.584da737.png",
+    "static/media/merge.941d885c.png": "/merge-pres/static/media/merge.941d885c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708116f7.js",
+    "static/js/2.0577e998.chunk.js",
+    "static/css/main.6fd7c62b.chunk.css",
+    "static/js/main.feb99c43.chunk.js"
+  ]
+}
